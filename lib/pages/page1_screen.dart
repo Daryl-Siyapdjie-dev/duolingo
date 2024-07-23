@@ -87,7 +87,7 @@ class DescriptionText extends StatelessWidget {
     return  Container(
       padding: EdgeInsets.all(16),
       child: const Text(
-       "La méthode efficace pour, apprendre une langue africaine!",
+       "The effective method for learning an African language!",
         textAlign: TextAlign.center,
         style: TextStyle(
           fontSize: 35,
